@@ -1,0 +1,10 @@
+
+
+.sobre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: bisque;
+    margin:  0;
+}
